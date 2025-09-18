@@ -13,3 +13,9 @@ Notebook: [Day1_Python_Basics.ipynb]
 - Mini project: Gradebook
 
 Notebook: [Day2_DataStructures.ipynb]
+
+### DAY 3 : Python conditional statements
+- if, if-else, if-elif-else, ternary statement, match-case statement
+- Even Odd checker
+
+Notebook: [Day3_Conditional_Statements.ipynb]

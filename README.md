@@ -19,3 +19,12 @@ Notebook: [Day2_DataStructures.ipynb]
 - Even Odd checker
 
 Notebook: [Day3_Conditional_Statements.ipynb]
+
+### DAY 4 : Loops in python
+- for loop, while loop, nested loop
+- continue, break and pass statements.
+- Exercises
+- Mini project ATM Machine Simulator
+
+Notebook: [Day4_Loops.ipynb]
+  

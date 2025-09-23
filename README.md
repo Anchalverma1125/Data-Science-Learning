@@ -27,4 +27,12 @@ Notebook: [Day3_Conditional_Statements.ipynb]
 - Mini project ATM Machine Simulator
 
 Notebook: [Day4_Loops.ipynb]
+
+### DAY 5 : Functions in python
+- Learned functions basics
+- Explore Nested function and variable argument (*args, **kwargs)
+- Practiced exercises
+- Mini project- Student Marks Analyzer.
+
+Notebook: [Day5_Functions.ipynb]
   

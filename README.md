@@ -36,3 +36,13 @@ Notebook: [Day4_Loops.ipynb]
 
 Notebook: [Day5_Functions.ipynb]
   
+### DAY 6 : Python Modules and File Handling
+- What are Python modules and how to use them
+- Importing built-in modules(math, datetime)
+- Creating and using custom modules
+- File Handling in python (open, close, read, write, append)
+- Using with for safe file operations
+- Handling errors with try-except
+- Mini project- Personal Diary App
+
+Notebook: Day6_Modules_&_File_Handling.ipynb

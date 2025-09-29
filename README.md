@@ -46,3 +46,10 @@ Notebook: [Day5_Functions.ipynb]
 - Mini project- Personal Diary App
 
 Notebook: Day6_Modules_&_File_Handling.ipynb
+
+### DAY 2 : Error Handling in python 
+- Try, except, else and finally
+- Mini project: 1. Student Performance Tracker
+                2. Task Manager with priority sorting
+
+Notebook: Day7_Error_Handling.ipynb
